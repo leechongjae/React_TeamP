@@ -1,6 +1,13 @@
+import style from './Menu.module.css';
+
 function Main() {
     return (
-        <h1>메인 화면</h1>
+        <div style={style} id='main-container'>
+            <div className="main-visual">
+                
+            
+            </div>
+        </div>
     );
 }
 
