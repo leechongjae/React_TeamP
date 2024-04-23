@@ -6,6 +6,8 @@ import Menu from './pages/Menu';
 import MenuDetails from './pages/MenuDetails';
 import MenuSearchResult from './pages/MenuSearchResult';
 import Login from './pages/Login';
+import Board from './pages/Board';
+import Basket from './pages/Basket';
 
 
 function App() {
@@ -22,6 +24,8 @@ function App() {
             <Route path=":menuCode" element={<MenuDetails/>}/>
             <Route path="search" element={<MenuSearchResult/>}/>
           </Route>
+          <Route path="board" element={<Board />} />
+					<Route path="basket" element={<Basket />} />
         </Route>
       </Routes>
     </BrowserRouter>

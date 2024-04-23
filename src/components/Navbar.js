@@ -14,6 +14,8 @@ function Navbar() {
                 <li><NavLink to="/login" style={({isActive}) => isActive? activeStyle: undefined}>로그인</NavLink></li>
                 <li><NavLink to="/about" style={({isActive}) => isActive? activeStyle: undefined}>소개</NavLink></li>
                 <li><NavLink to="/menu" style={({isActive}) => isActive? activeStyle: undefined}>메뉴목록</NavLink></li>
+                <li><NavLink to="/board" style={({ isActive }) => isActive ? activeStyle : undefined}>게시판</NavLink></li>
+				<li><NavLink to="/basket" style={({ isActive }) => isActive ? activeStyle : undefined}>장바구니</NavLink></li>
             </ul>
         </div>
     );
