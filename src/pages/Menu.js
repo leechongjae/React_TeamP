@@ -18,9 +18,10 @@ function Menu() {
 			// console.log(getMenuList()[8]);
 			// const menus = getMenuList();
 			// setMenus(menus);
-			console.table(getMenuList())
+			// console.log(getMenuList());
+			console.log('getMenuList().products : ', getMenuList() );
 			setMenus(getMenuList());
-			console.log(menus);
+			console.log('menus : ',menus);
 
 		},
 		[]
@@ -43,7 +44,7 @@ function Menu() {
 				<button onClick={onClickHandler}>검색</button>
 			</div>
 			<div className={boxStyle.MenuBox}>
-				{menus.map(menu => <MenuItem key={menu.menuCode} menu={menu}/>)}
+				{menus.map(menu => <MenuItem key={menu.id} menu={menu}/>)}
 			</div>
 		</>
 	);

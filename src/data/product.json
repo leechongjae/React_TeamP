@@ -1,11 +1,10 @@
-{
-  "products": [
+[
     {
       "id": 1,
       "name": "그라시아",
       "category": {
         "type": "아이스크림",
-        "image": "url(../img/product/category01.png)"
+        "image": "../images/category01.png"
       },
       "flavor": ["쿠앤크"],
       "price": 3000,
@@ -17,14 +16,14 @@
         "Cholesterol": "10mg",
         "protein": "3g"
       },
-      "image": "url(../img/product/product01.png)"
+      "image": "../images/product01.png"
     },
     {
       "id": 2,
       "name": "팥빙수",
       "category": {
         "type": "아이스크림",
-        "image": "url(../img/product/category01.png)"
+        "image": "../images/category01.png"
       },
       "flavor": ["빙수", "팥"],
       "price": 2500,
@@ -36,14 +35,14 @@
         "Cholesterol": "10mg",
         "protein": "3g"
       },
-      "image": "url(../img/product/product02.png)"
+      "image": "../images/product02.png"
     },
     {
       "id": 3,
       "name": "찹쌀떡아이스",
       "category": {
         "type": "아이스크림",
-        "image": "url(../img/product/category01.png)"
+        "image": "../images/category01.png"
       },
       "flavor": ["인절미"],
       "price": 3500,
@@ -55,14 +54,14 @@
         "Cholesterol": "10mg",
         "protein": "3g"
       },
-      "image": "url(../img/product/product03.png)"
+      "image": "../images/product03.png"
     },
     {
       "id": 4,
       "name": "메로나",
       "category": {
         "type": "아이스크림",
-        "image": "url(../img/product/category01.png)"
+        "image": "../images/category01.png"
       },
       "flavor": ["메론"],
       "price": 2800,
@@ -74,14 +73,14 @@
         "Cholesterol": "10mg",
         "protein": "3g"
       },
-      "image": "url(../img/product/product04.png)"
+      "image": "../images/product04.png"
     },
     {
       "id": 5,
       "name": "투게더",
       "category": {
         "type": "아이스크림",
-        "image": "url(../img/product/category01.png)"
+        "image": "../images/category01.png"
       },
       "flavor": ["바닐라"],
       "price": 2000,
@@ -93,14 +92,14 @@
         "Cholesterol": "10mg",
         "protein": "3g"
       },
-      "image": "url(../img/product/product05.png)"
+      "image": "../images/product05.png"
     },
     {
       "id": 6,
       "name": "딸기 아이스크림",
       "category": {
         "type": "아이스크림",
-        "image": "url(../img/product/category01.png)"
+        "image": "../images/category01.png"
       },
       "flavor": ["딸기"],
       "price": 2400,
@@ -112,14 +111,14 @@
         "Cholesterol": "9mg",
         "protein": "3g"
       },
-      "image": "url(../img/product/product06.png)"
+      "image": "../images/product06.png"
     },
     {
       "id": 7,
       "name": "망고 아이스크림",
       "category": {
         "type": "아이스크림",
-        "image": "url(../img/product/category01.png)"
+        "image": "../images/category01.png"
       },
       "flavor": ["망고"],
       "price": 2600,
@@ -131,14 +130,14 @@
         "Cholesterol": "10mg",
         "protein": "3g"
       },
-      "image": "url(../img/product/product07.png)"
+      "image": "../images/product07.png"
     },
     {
       "id": 8,
       "name": "초콜릿 아이스크림",
       "category": {
         "type": "아이스크림",
-        "image": "url(../img/product/category01.png)"
+        "image": "../images/category01.png"
       },
       "flavor": ["초콜릿"],
       "price": 2500,
@@ -150,14 +149,14 @@
         "Cholesterol": "9mg",
         "protein": "3g"
       },
-      "image": "url(../img/product/product08.png)"
+      "image": "../images/product08.png"
     },
     {
       "id": 9,
       "name": "바나나 아이스크림",
       "category": {
         "type": "아이스크림",
-        "image": "url(../img/product/category01.png)"
+        "image": "../images/category01.png"
       },
       "flavor": ["바나나"],
       "price": 2300,
@@ -169,14 +168,14 @@
         "Cholesterol": "8mg",
         "protein": "3g"
       },
-      "image": "url(../img/product/product09.png)"
+      "image": "../images/product09.png"
     },
     {
       "id": 10,
       "name": "민트 초코 아이스크림",
       "category": {
         "type": "아이스크림",
-        "image": "url(../img/product/category01.png)"
+        "image": "../images/category01.png"
       },
       "flavor": ["민트", "초코"],
       "price": 2700,
@@ -188,14 +187,14 @@
         "Cholesterol": "10mg",
         "protein": "3g"
       },
-      "image": "url(../img/product/product10.png)"
+      "image": "../images/product10.png"
     },
     {
       "id": 11,
       "name": "아이스크림 케이크",
       "category": {
         "type": "아이스크림",
-        "image": "url(../img/product/category01.png)"
+        "image": "../images/category01.png"
       },
       "flavor": ["바닐라", "초콜릿"],
       "price": 3800,
@@ -207,14 +206,14 @@
         "Cholesterol": "15mg",
         "protein": "4g"
       },
-      "image": "url(../img/product/product11.png)"
+      "image": "../images/product11.png"
     },
     {
       "id": 12,
       "name": "쿠키 아이스크림",
       "category": {
         "type": "아이스크림",
-        "image": "url(../img/product/category01.png)"
+        "image": "../images/category01.png"
       },
       "flavor": ["초코칩", "바닐라"],
       "price": 2900,
@@ -226,14 +225,14 @@
         "Cholesterol": "12mg",
         "protein": "3g"
       },
-      "image": "url(../img/product/product12.png)"
+      "image": "../images/product12.png"
     },
     {
       "id": 13,
       "name": "레몬 소르베",
       "category": {
         "type": "아이스크림",
-        "image": "url(../img/product/category01.png)"
+        "image": "../images/category01.png"
       },
       "flavor": ["레몬"],
       "price": 2600,
@@ -245,14 +244,14 @@
         "Cholesterol": "9mg",
         "protein": "2g"
       },
-      "image": "url(../img/product/product13.png)"
+      "image": "../images/product13.png"
     },
     {
       "id": 14,
       "name": "피스타치오 아이스크림",
       "category": {
         "type": "아이스크림",
-        "image": "url(../img/product/category01.png)"
+        "image": "../images/category01.png"
       },
       "flavor": ["피스타치오"],
       "price": 3200,
@@ -264,14 +263,14 @@
         "Cholesterol": "12mg",
         "protein": "3g"
       },
-      "image": "url(../img/product/product14.png)"
+      "image": "../images/product14.png"
     },
     {
       "id": 15,
       "name": "오레오 아이스크림",
       "category": {
         "type": "아이스크림",
-        "image": "url(../img/product/category01.png)"
+        "image": "../images/category01.png"
       },
       "flavor": ["초코", "바닐라"],
       "price": 3000,
@@ -283,14 +282,14 @@
         "Cholesterol": "10mg",
         "protein": "3g"
       },
-      "image": "url(../img/product/product15.png)"
+      "image": "../images/product15.png"
     },
     {
       "id": 16,
       "name": "딸기 요거트 아이스크림",
       "category": {
         "type": "아이스크림",
-        "image": "url(../img/product/category01.png)"
+        "image": "../images/category01.png"
       },
       "flavor": ["딸기", "요거트"],
       "price": 2900,
@@ -302,14 +301,14 @@
         "Cholesterol": "11mg",
         "protein": "3g"
       },
-      "image": "url(../img/product/product16.png)"
+      "image": "../images/product16.png"
     },
     {
       "id": 17,
       "name": "녹차 아이스크림",
       "category": {
         "type": "아이스크림",
-        "image": "url(../img/product/category01.png)"
+        "image": "../images/category01.png"
       },
       "flavor": ["녹차"],
       "price": 2700,
@@ -321,14 +320,14 @@
         "Cholesterol": "10mg",
         "protein": "3g"
       },
-      "image": "url(../img/product/product17.png)"
+      "image": "../images/product17.png"
     },
     {
       "id": 18,
       "name": "파인애플 소르베",
       "category": {
         "type": "아이스크림",
-        "image": "url(../img/product/category01.png)"
+        "image": "../images/category01.png"
       },
       "flavor": ["파인애플"],
       "price": 2800,
@@ -340,14 +339,14 @@
         "Cholesterol": "10mg",
         "protein": "2g"
       },
-      "image": "url(../img/product/product18.png)"
+      "image": "../images/product18.png"
     },
     {
       "id": 19,
       "name": "블루베리 요거트 아이스크림",
       "category": {
         "type": "아이스크림",
-        "image": "url(../img/product/category01.png)"
+        "image": "../images/category01.png"
       },
       "flavor": ["블루베리", "요거트"],
       "price": 3100,
@@ -359,14 +358,14 @@
         "Cholesterol": "12mg",
         "protein": "3g"
       },
-      "image": "url(../img/product/product19.png)"
+      "image": "../images/product19.png"
     },
     {
       "id": 20,
       "name": "베리베리 소르베",
       "category": {
         "type": "아이스크림",
-        "image": "url(../img/product/category01.png)"
+        "image": "../images/category01.png"
       },
       "flavor": ["딸기", "블루베리", "라즈베리"],
       "price": 3300,
@@ -378,14 +377,14 @@
         "Cholesterol": "11mg",
         "protein": "2g"
       },
-      "image": "url(../img/product/product20.png)"
+      "image": "../images/product20.png"
     },
     {
       "id": 41,
       "name": "딸기 우유",
       "category": {
         "type": "우유",
-        "image": "url(../img/product/category02.png)"
+        "image": "../images/category02.png"
       },
       "flavor": ["딸기"],
       "price": 2500,
@@ -397,14 +396,14 @@
         "Cholesterol": "5mg",
         "protein": "4g"
       },
-      "image": "url(../img/product/product41.png)"
+      "image": "../images/product41.png"
     },
     {
       "id": 42,
       "name": "초코 우유",
       "category": {
         "type": "우유",
-        "image": "url(../img/product/category02.png)"
+        "image": "../images/category02.png"
       },
       "flavor": ["초코"],
       "price": 2300,
@@ -416,14 +415,14 @@
         "Cholesterol": "6mg",
         "protein": "3g"
       },
-      "image": "url(../img/product/product42.png)"
+      "image": "../images/product42.png"
     },
     {
       "id": 43,
       "name": "바나나 우유",
       "category": {
         "type": "우유",
-        "image": "url(../img/product/category02.png)"
+        "image": "../images/category02.png"
       },
       "flavor": ["바나나"],
       "price": 2400,
@@ -435,14 +434,14 @@
         "Cholesterol": "5mg",
         "protein": "3.5g"
       },
-      "image": "url(../img/product/product43.png)"
+      "image": "../images/product43.png"
     },
     {
       "id": 44,
       "name": "커피 우유",
       "category": {
         "type": "우유",
-        "image": "url(../img/product/category02.png)"
+        "image": "../images/category02.png"
       },
       "flavor": ["커피"],
       "price": 2600,
@@ -454,14 +453,14 @@
         "Cholesterol": "7mg",
         "protein": "3.2g"
       },
-      "image": "url(../img/product/product44.png)"
+      "image": "../images/product44.png"
     },
     {
       "id": 45,
       "name": "밀크티",
       "category": {
         "type": "우유",
-        "image": "url(../img/product/category02.png)"
+        "image": "../images/category02.png"
       },
       "flavor": ["밀크티"],
       "price": 2700,
@@ -473,14 +472,14 @@
         "Cholesterol": "6mg",
         "protein": "3.8g"
       },
-      "image": "url(../img/product/product45.png)"
+      "image": "../images/product45.png"
     },
     {
       "id": 46,
       "name": "녹차 우유",
       "category": {
         "type": "우유",
-        "image": "url(../img/product/category02.png)"
+        "image": "../images/category02.png"
       },
       "flavor": ["녹차"],
       "price": 2500,
@@ -492,14 +491,14 @@
         "Cholesterol": "5mg",
         "protein": "3.5g"
       },
-      "image": "url(../img/product/product46.png)"
+      "image": "../images/product46.png"
     },
     {
       "id": 47,
       "name": "요거트 우유",
       "category": {
         "type": "우유",
-        "image": "url(../img/product/category02.png)"
+        "image": "../images/category02.png"
       },
       "flavor": ["요거트"],
       "price": 2600,
@@ -511,14 +510,14 @@
         "Cholesterol": "4mg",
         "protein": "3.8g"
       },
-      "image": "url(../img/product/product47.png)"
+      "image": "../images/product47.png"
     },
     {
       "id": 48,
       "name": "흑임자 우유",
       "category": {
         "type": "우유",
-        "image": "url(../img/product/category02.png)"
+        "image": "../images/category02.png"
       },
       "flavor": ["흑임자"],
       "price": 2700,
@@ -530,14 +529,14 @@
         "Cholesterol": "5mg",
         "protein": "3.4g"
       },
-      "image": "url(../img/product/product48.png)"
+      "image": "../images/product48.png"
     },
     {
       "id": 49,
       "name": "초코바나나 우유",
       "category": {
         "type": "우유",
-        "image": "url(../img/product/category02.png)"
+        "image": "../images/category02.png"
       },
       "flavor": ["초코", "바나나"],
       "price": 2800,
@@ -549,14 +548,14 @@
         "Cholesterol": "6mg",
         "protein": "3.6g"
       },
-      "image": "url(../img/product/product49.png)"
+      "image": "../images/product49.png"
     },
     {
       "id": 50,
       "name": "헤이즐넛 우유",
       "category": {
         "type": "우유",
-        "image": "url(../img/product/category02.png)"
+        "image": "../images/category02.png"
       },
       "flavor": ["헤이즐넛"],
       "price": 2900,
@@ -568,14 +567,14 @@
         "Cholesterol": "5mg",
         "protein": "3.7g"
       },
-      "image": "url(../img/product/product50.png)"
+      "image": "../images/product50.png"
     },
     {
       "id": 61,
       "name": "요거트",
       "category": {
         "type": "발효유",
-        "image": "url(../img/product/category03.png)"
+        "image": "../images/category03.png"
       },
       "flavor": ["요거트"],
       "price": 2300,
@@ -587,14 +586,14 @@
         "Cholesterol": "4mg",
         "protein": "3g"
       },
-      "image": "url(../img/product/product61.png)"
+      "image": "../images/product61.png"
     },
     {
       "id": 62,
       "name": "발사믹 요거트",
       "category": {
         "type": "발효유",
-        "image": "url(../img/product/category03.png)"
+        "image": "../images/category03.png"
       },
       "flavor": ["발사믹"],
       "price": 2500,
@@ -606,14 +605,14 @@
         "Cholesterol": "5mg",
         "protein": "3.2g"
       },
-      "image": "url(../img/product/product62.png)"
+      "image": "../images/product62.png"
     },
     {
       "id": 63,
       "name": "플레인 요거트",
       "category": {
         "type": "발효유",
-        "image": "url(../img/product/category03.png)"
+        "image": "../images/category03.png"
       },
       "flavor": ["플레인"],
       "price": 2200,
@@ -625,14 +624,14 @@
         "Cholesterol": "3mg",
         "protein": "2.8g"
       },
-      "image": "url(../img/product/product63.png)"
+      "image": "../images/product63.png"
     },
     {
       "id": 64,
       "name": "그릭 요거트",
       "category": {
         "type": "발효유",
-        "image": "url(../img/product/category03.png)"
+        "image": "../images/category03.png"
       },
       "flavor": ["그릭"],
       "price": 2600,
@@ -644,14 +643,14 @@
         "Cholesterol": "6mg",
         "protein": "3.5g"
       },
-      "image": "url(../img/product/product64.png)"
+      "image": "../images/product64.png"
     },
     {
       "id": 65,
       "name": "아카이 요거트",
       "category": {
         "type": "발효유",
-        "image": "url(../img/product/category03.png)"
+        "image": "../images/category03.png"
       },
       "flavor": ["아카이"],
       "price": 2700,
@@ -663,14 +662,14 @@
         "Cholesterol": "7mg",
         "protein": "3.7g"
       },
-      "image": "url(../img/product/product65.png)"
+      "image": "../images/product65.png"
     },
     {
       "id": 66,
       "name": "블루베리 요거트",
       "category": {
         "type": "발효유",
-        "image": "url(../img/product/category03.png)"
+        "image": "../images/category03.png"
       },
       "flavor": ["블루베리"],
       "price": 2400,
@@ -682,14 +681,14 @@
         "Cholesterol": "4mg",
         "protein": "3.1g"
       },
-      "image": "url(../img/product/product66.png)"
+      "image": "../images/product66.png"
     },
     {
       "id": 67,
       "name": "딸기요거트",
       "category": {
         "type": "발효유",
-        "image": "url(../img/product/category03.png)"
+        "image": "../images/category03.png"
       },
       "flavor": ["딸기"],
       "price": 2300,
@@ -701,14 +700,14 @@
         "Cholesterol": "4mg",
         "protein": "3g"
       },
-      "image": "url(../img/product/product67.png)"
+      "image": "../images/product67.png"
     },
     {
       "id": 68,
       "name": "키위 요거트",
       "category": {
         "type": "발효유",
-        "image": "url(../img/product/category03.png)"
+        "image": "../images/category03.png"
       },
       "flavor": ["키위"],
       "price": 2500,
@@ -720,14 +719,14 @@
         "Cholesterol": "5mg",
         "protein": "3.2g"
       },
-      "image": "url(../img/product/product68.png)"
+      "image": "../images/product68.png"
     },
     {
       "id": 69,
       "name": "레몬 요거트",
       "category": {
         "type": "발효유",
-        "image": "url(../img/product/category03.png)"
+        "image": "../images/category03.png"
       },
       "flavor": ["레몬"],
       "price": 2200,
@@ -739,14 +738,14 @@
         "Cholesterol": "3mg",
         "protein": "2.8g"
       },
-      "image": "url(../img/product/product69.png)"
+      "image": "../images/product69.png"
     },
     {
       "id": 70,
       "name": "망고 요거트",
       "category": {
         "type": "발효유",
-        "image": "url(../img/product/category03.png)"
+        "image": "../images/category03.png"
       },
       "flavor": ["망고"],
       "price": 2600,
@@ -758,14 +757,14 @@
         "Cholesterol": "6mg",
         "protein": "3.5g"
       },
-      "image": "url(../img/product/product70.png)"
+      "image": "../images/product70.png"
     },
     {
       "id": 71,
       "name": "아메리카노",
       "category": {
         "type": "커피",
-        "image": "url(../img/product/category04.png)"
+        "image": "../images/category04.png"
       },
       "flavor": ["아메리카노"],
       "price": 2500,
@@ -777,14 +776,14 @@
         "Cholesterol": "0mg",
         "protein": "1g"
       },
-      "image": "url(../img/product/product71.png)"
+      "image": "../images/product71.png"
     },
     {
       "id": 72,
       "name": "카페라떼",
       "category": {
         "type": "커피",
-        "image": "url(../img/product/category04.png)"
+        "image": "../images/category04.png"
       },
       "flavor": ["카페라떼"],
       "price": 2800,
@@ -796,14 +795,14 @@
         "Cholesterol": "5mg",
         "protein": "2g"
       },
-      "image": "url(../img/product/product72.png)"
+      "image": "../images/product72.png"
     },
     {
       "id": 73,
       "name": "카푸치노",
       "category": {
         "type": "커피",
-        "image": "url(../img/product/category04.png)"
+        "image": "../images/category04.png"
       },
       "flavor": ["카푸치노"],
       "price": 2700,
@@ -815,14 +814,14 @@
         "Cholesterol": "4mg",
         "protein": "1.8g"
       },
-      "image": "url(../img/product/product73.png)"
+      "image": "../images/product73.png"
     },
     {
       "id": 74,
       "name": "에스프레소",
       "category": {
         "type": "커피",
-        "image": "url(../img/product/category04.png)"
+        "image": "../images/category04.png"
       },
       "flavor": ["에스프레소"],
       "price": 2300,
@@ -834,14 +833,14 @@
         "Cholesterol": "0mg",
         "protein": "1g"
       },
-      "image": "url(../img/product/product74.png)"
+      "image": "../images/product74.png"
     },
     {
       "id": 75,
       "name": "바닐라라떼",
       "category": {
         "type": "커피",
-        "image": "url(../img/product/category04.png)"
+        "image": "../images/category04.png"
       },
       "flavor": ["바닐라라떼"],
       "price": 3000,
@@ -853,14 +852,14 @@
         "Cholesterol": "6mg",
         "protein": "2.2g"
       },
-      "image": "url(../img/product/product75.png)"
+      "image": "../images/product75.png"
     },
     {
       "id": 76,
       "name": "모카라떼",
       "category": {
         "type": "커피",
-        "image": "url(../img/product/category04.png)"
+        "image": "../images/category04.png"
       },
       "flavor": ["모카라떼"],
       "price": 3200,
@@ -872,14 +871,14 @@
         "Cholesterol": "7mg",
         "protein": "2.5g"
       },
-      "image": "url(../img/product/product76.png)"
+      "image": "../images/product76.png"
     },
     {
       "id": 77,
       "name": "아이스커피",
       "category": {
         "type": "커피",
-        "image": "url(../img/product/category04.png)"
+        "image": "../images/category04.png"
       },
       "flavor": ["아이스커피"],
       "price": 2400,
@@ -891,14 +890,14 @@
         "Cholesterol": "0mg",
         "protein": "1g"
       },
-      "image": "url(../img/product/product77.png)"
+      "image": "../images/product77.png"
     },
     {
       "id": 78,
       "name": "카페모카",
       "category": {
         "type": "커피",
-        "image": "url(../img/product/category04.png)"
+        "image": "../images/category04.png"
       },
       "flavor": ["카페모카"],
       "price": 3100,
@@ -910,14 +909,14 @@
         "Cholesterol": "6mg",
         "protein": "2.3g"
       },
-      "image": "url(../img/product/product78.png)"
+      "image": "../images/product78.png"
     },
     {
       "id": 79,
       "name": "아이스바닐라라떼",
       "category": {
         "type": "커피",
-        "image": "url(../img/product/category04.png)"
+        "image": "../images/category04.png"
       },
       "flavor": ["아이스바닐라라떼"],
       "price": 3100,
@@ -929,14 +928,14 @@
         "Cholesterol": "6mg",
         "protein": "2.2g"
       },
-      "image": "url(../img/product/product79.png)"
+      "image": "../images/product79.png"
     },
     {
       "id": 80,
       "name": "카페모카 프라페",
       "category": {
         "type": "커피",
-        "image": "url(../img/product/category04.png)"
+        "image": "../images/category04.png"
       },
       "flavor": ["카페모카"],
       "price": 3300,
@@ -948,14 +947,14 @@
         "Cholesterol": "7mg",
         "protein": "2.5g"
       },
-      "image": "url(../img/product/product80.png)"
+      "image": "../images/product80.png"
     },
     {
       "id": 81,
       "name": "오렌지 주스",
       "category": {
         "type": "주스",
-        "image": "url(../img/product/category05.png)"
+        "image": "../images/category05.png"
       },
       "flavor": ["오렌지"],
       "price": 3500,
@@ -967,14 +966,14 @@
         "Cholesterol": "0mg",
         "protein": "1g"
       },
-      "image": "url(../img/product/product81.png)"
+      "image": "../images/product81.png"
     },
     {
       "id": 82,
       "name": "사과 주스",
       "category": {
         "type": "주스",
-        "image": "url(../img/product/category05.png)"
+        "image": "../images/category05.png"
       },
       "flavor": ["사과"],
       "price": 3200,
@@ -986,14 +985,14 @@
         "Cholesterol": "0mg",
         "protein": "0.5g"
       },
-      "image": "url(../img/product/product82.png)"
+      "image": "../images/product82.png"
     },
     {
       "id": 83,
       "name": "토마토 주스",
       "category": {
         "type": "주스",
-        "image": "url(../img/product/category05.png)"
+        "image": "../images/category05.png"
       },
       "flavor": ["토마토"],
       "price": 3400,
@@ -1005,14 +1004,14 @@
         "Cholesterol": "0mg",
         "protein": "1g"
       },
-      "image": "url(../img/product/product83.png)"
+      "image": "../images/product83.png"
     },
     {
       "id": 84,
       "name": "포도 주스",
       "category": {
         "type": "주스",
-        "image": "url(../img/product/category05.png)"
+        "image": "../images/category05.png"
       },
       "flavor": ["포도"],
       "price": 3700,
@@ -1024,14 +1023,14 @@
         "Cholesterol": "0mg",
         "protein": "0.5g"
       },
-      "image": "url(../img/product/product84.png)"
+      "image": "../images/product84.png"
     },
     {
       "id": 85,
       "name": "딸기 주스",
       "category": {
         "type": "주스",
-        "image": "url(../img/product/category05.png)"
+        "image": "../images/category05.png"
       },
       "flavor": ["딸기"],
       "price": 3600,
@@ -1043,14 +1042,14 @@
         "Cholesterol": "0mg",
         "protein": "0.8g"
       },
-      "image": "url(../img/product/product85.png)"
+      "image": "../images/product85.png"
     },
     {
       "id": 86,
       "name": "레몬에이드",
       "category": {
         "type": "음료",
-        "image": "url(../img/product/category06.png)"
+        "image": "../images/category06.png"
       },
       "flavor": ["레몬"],
       "price": 2800,
@@ -1062,14 +1061,14 @@
         "Cholesterol": "0mg",
         "protein": "0.5g"
       },
-      "image": "url(../img/product/product86.png)"
+      "image": "../images/product86.png"
     },
     {
       "id": 87,
       "name": "아이스티",
       "category": {
         "type": "음료",
-        "image": "url(../img/product/category06.png)"
+        "image": "../images/category06.png"
       },
       "flavor": ["아이스티"],
       "price": 2500,
@@ -1081,14 +1080,14 @@
         "Cholesterol": "0mg",
         "protein": "0g"
       },
-      "image": "url(../img/product/product87.png)"
+      "image": "../images/product87.png"
     },
     {
       "id": 88,
       "name": "청포도 에이드",
       "category": {
         "type": "음료",
-        "image": "url(../img/product/category06.png)"
+        "image": "../images/category06.png"
       },
       "flavor": ["청포도"],
       "price": 1800,
@@ -1100,7 +1099,7 @@
         "Cholesterol": "0mg",
         "protein": "0g"
       },
-      "image": "url(../img/product/product88.png)"
+      "image": "../images/product88.png"
     }
-  ]
-}
+]
+

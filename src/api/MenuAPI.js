@@ -1,4 +1,7 @@
-import menus from '../data/menu-detail.json';
+// import menus from '../data/menu-detail.json';
+import menus from '../data/product.json';
+
+// const result = menus;
 
 /* 제발 함수 export합시다. */
 
@@ -9,10 +12,11 @@ export function getMenuList(){
     return menus; //json으로 파싱된 데이터를 반환한다
 }
 /* MenuDetails에서 넘겨준 메뉴코드 값과 일치하는 메뉴 객체를 반환 */
-export function getMenuDetail(menuCode) {
-    return menus.filter(menu => menu.menuCode === parseInt(menuCode))[0];
+export function getMenuDetail(menuCode) {    
+    return menus.filter(menu => menu.id == menuCode)[0];
+    
 }
 
 export function searchMenu(searchMenuName) {
-    return menus.filter(menu => menu.menuName.match(searchMenuName));
+    return menus.filter(menu => menu.name.match(searchMenuName));
 }
